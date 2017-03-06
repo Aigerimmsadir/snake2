@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeII", "SnakeII\SnakeII.csproj", "{77E49944-EF63-42EE-8C36-1E6B01554DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{B7342ECD-2AFF-4D16-90A5-1B071F9B8F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E49944-EF63-42EE-8C36-1E6B01554DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E49944-EF63-42EE-8C36-1E6B01554DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E49944-EF63-42EE-8C36-1E6B01554DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E49944-EF63-42EE-8C36-1E6B01554DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7342ECD-2AFF-4D16-90A5-1B071F9B8F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7342ECD-2AFF-4D16-90A5-1B071F9B8F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7342ECD-2AFF-4D16-90A5-1B071F9B8F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7342ECD-2AFF-4D16-90A5-1B071F9B8F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

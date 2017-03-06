@@ -1,0 +1,21 @@
+C:\Users\Lenovo\Desktop\PT2017_W6G2-master\SnakeII\bin\Debug\SnakeII.exe.config
+C:\Users\Lenovo\Desktop\PT2017_W6G2-master\SnakeII\bin\Debug\SnakeII.exe
+C:\Users\Lenovo\Desktop\PT2017_W6G2-master\SnakeII\bin\Debug\SnakeII.pdb
+C:\Users\Lenovo\Desktop\PT2017_W6G2-master\SnakeII\obj\Debug\SnakeII.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PT2017_W6G2-master\SnakeII\obj\Debug\SnakeII.exe
+C:\Users\Lenovo\Desktop\PT2017_W6G2-master\SnakeII\obj\Debug\SnakeII.pdb
+C:\Users\Lenovo\Desktop\PT2017_W6G2-master\SnakeII\bin\Debug\Level\leve1.txt
+C:\Users\Lenovo\Desktop\snake2\SnakeII\bin\Debug\SnakeII.exe.config
+C:\Users\Lenovo\Desktop\snake2\SnakeII\obj\Debug\SnakeII.exe
+C:\Users\Lenovo\Desktop\snake2\SnakeII\obj\Debug\SnakeII.pdb
+C:\Users\Lenovo\Desktop\snake2\SnakeII\bin\Debug\Level\leve1.txt
+C:\Users\Lenovo\Desktop\snake2\SnakeII\bin\Debug\SnakeII.exe
+C:\Users\Lenovo\Desktop\snake2\SnakeII\bin\Debug\SnakeII.pdb
+C:\Users\Lenovo\Desktop\snake2\SnakeII\obj\Debug\SnakeII.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\snake2 — копия\SnakeII\bin\Debug\SnakeII.exe.config
+C:\Users\Lenovo\Desktop\snake2 — копия\SnakeII\obj\Debug\SnakeII.exe
+C:\Users\Lenovo\Desktop\snake2 — копия\SnakeII\obj\Debug\SnakeII.pdb
+C:\Users\Lenovo\Desktop\snake2 — копия\SnakeII\bin\Debug\Level\leve1.txt
+C:\Users\Lenovo\Desktop\snake2 — копия\SnakeII\bin\Debug\SnakeII.exe
+C:\Users\Lenovo\Desktop\snake2 — копия\SnakeII\bin\Debug\SnakeII.pdb
+C:\Users\Lenovo\Desktop\snake2 — копия\SnakeII\obj\Debug\SnakeII.csprojResolveAssemblyReference.cache
